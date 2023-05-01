@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bgvideo-project/static/css/main.5c0cb959.css",
+    "main.js": "/bgvideo-project/static/js/main.fd42840d.js",
+    "static/js/787.dfdaa5d2.chunk.js": "/bgvideo-project/static/js/787.dfdaa5d2.chunk.js",
+    "static/media/vd.mp4": "/bgvideo-project/static/media/vd.a49e3b51bc31ac344e0c.mp4",
+    "static/media/p1.jpg": "/bgvideo-project/static/media/p1.f107bf0fd2c738a55d3e.jpg",
+    "static/media/p2.png": "/bgvideo-project/static/media/p2.65616ee9a0e56137024e.png",
+    "static/media/p3.png": "/bgvideo-project/static/media/p3.3a569982a0e1fd2396af.png",
+    "static/media/p4.png": "/bgvideo-project/static/media/p4.3d3ddb7207f140c6f36d.png",
+    "static/media/p5.png": "/bgvideo-project/static/media/p5.bc03634b01000d0c5985.png",
+    "index.html": "/bgvideo-project/index.html",
+    "main.5c0cb959.css.map": "/bgvideo-project/static/css/main.5c0cb959.css.map",
+    "main.fd42840d.js.map": "/bgvideo-project/static/js/main.fd42840d.js.map",
+    "787.dfdaa5d2.chunk.js.map": "/bgvideo-project/static/js/787.dfdaa5d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c0cb959.css",
+    "static/js/main.fd42840d.js"
+  ]
+}
